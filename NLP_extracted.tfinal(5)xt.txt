@@ -1,0 +1,169 @@
+J Anesth (2016) 30:929–934
+DOI 10.1007/s00540-016-2252-8
+
+    ORIGINAL ARTICLE
+
+
+
+The effects of intravenous anesthetics on QT interval
+during anesthetic induction with sevoflurane
+Yoshiaki Terao1 · Ushio Higashijima1 · Tomomi Toyoda1 · Taiga Ichinomiya1 ·
+Makoto Fukusaki1 · Tetsuya Hara2
+
+
+
+
+Received: 23 March 2016 / Accepted: 14 September 2016 / Published online: 21 September 2016
+© Japanese Society of Anesthesiologists 2016
+
+
+Abstract                                                              both groups. At T3, MAP in Group T was higher than in
+Purpose Sevoflurane is known to prolong the QT interval.              Group P, while HR had reduced in both groups. The QTc
+This study aimed to determine the effect of the interaction           interval was prolonged after anesthesia induction in Group
+between intravenous anesthetics and sevoflurane on the QT             T, but did not change at any time point in Group P. The
+interval.                                                             QTc interval after anesthesia induction in Group T was
+Methods The study included 48 patients who underwent                  longer than in Group P.
+lumbar spine surgery. Patients received 3 μg/kg fenta-                Conclusion We concluded that an injection of propofol
+nyl and were then randomly allocated to either Group T,               could counteract QTc interval prolongation associated with
+in which they received 5 mg/kg thiamylal, or Group P, in              sevoflurane anesthesia induction.
+which they received 1.5 mg/kg propofol, at 2 min after
+administration of fentanyl injection for anesthetic induc-            Keywords Propofol · Sevoflurane · Thiamylal · QT
+tion. Vecuronium (1.5 mg/kg) and sevoflurane (3 % inhaled             interval · QT dispersion · Dysrhythmias
+concentration) were administered immediately after loss of
+consciousness and tracheal intubation was performed 3 min
+after vecuronium injection. Heart rate (HR), mean arte-               Introduction
+rial pressure (MAP), bispectral index score (BIS), and the
+heart rate-corrected QT (QTc) interval on a 12-lead elec-             The QT interval of the electrocardiogram (ECG) represents
+trocardiogram were recorded immediately before fentanyl               the period of myocardial depolarization and repolariza-
+administration (T1), 2 min after fentanyl injection (T2),             tion. Heart rate-corrected QT (QTc) interval prolongation
+immediately before intubation (T3), and 2 min after intuba-           is associated with life-threatening dysrhythmias, including
+tion (T4).                                                            polymorphic ventricular tachycardia (torsade de pointes),
+Results There were no significant differences between                 and it is important to know which anesthesia patients are at
+the two groups in baseline patient characteristics. BIS and           risk of prolonged QTc interval. Volatile anesthetics, includ-
+MAP significantly decreased after anesthesia induction in             ing sevoflurane, are known to prolong the QT interval sig-
+                                                                      nificantly [1], and thiamylal can also cause marked prolon-
+                                                                      gation of the QT interval [2]. We previously reported that
+This work was presented, in part, at the annual meeting of
+American Society of Anesthesiologists, New Orleans, USA,
+                                                                      intravenous propofol can shorten the QTc interval during
+October 17–21, 2008.                                                  anesthesia induction [2, 3], while Kleinsasser et al. further
+                                                                      reported that sevoflurane-associated QTc interval prolonga-
+* Yoshiaki Terao                                                      tion was reversed within 15 min after substituting propo-
+  yoterao@na-robyo.jp
+                                                                      fol for sevoflurane [4]. Propofol injection also counter-
+1
+     Department of Anesthesia, Nagasaki Rosai Hospital, 2-12-5        acted QTc interval prolongation induced by an antiemetic
+     Setogoe, Sasebo 857-0134, Japan                                  dose of droperidol during anesthesia induction [5]. How-
+2
+     Department of Anesthesiology, Nagasaki University School         ever, propofol is generally used as an induction agent
+     of Medicine, 1-7-1 Sakamoto, Nagasaki 852-8501, Japan            before sevoflurane administration, and it appears that the
+
+                                                                                                                        13
+930                                                                                                 J Anesth (2016) 30:929–934
+
+
+preventative effect of propofol on sevoflurane-induced QTc      speed of 25 mm/s. The ECG data were also recorded digi-
+interval prolongation has not been previously examined.         tally. QT intervals were measured by using developed soft-
+   QT dispersion (QTD) is the difference between the max-       ware (QTD-1; Fukuda Denshi, Tokyo, Japan), which is pro-
+imum and minimum QT intervals on a 12-lead ECG, and             grammed to detect the onset of the QRS complex and the
+is regarded as a measure of left ventricular repolarization     end of the T wave [2, 10].
+inhomogeneity that could represent an electrophysiologi-           The QTc interval was calculated according to Frideri-
+cal index for increased risk of ventricular dysrhythmia [6].    cia’s formula [11] as follows:
+Increased QTD is a sign of heterogeneous repolarization                       √3
+and possible arrhythmogenic re-entry [7]. Yildirim et al.       QTc = QT/ RR.
+reported that sevoflurane, isoflurane, and desflurane pro-         The data were excluded from analysis in cases where
+long QTc interval and QTcD [8], while Emin et al. found         the QT interval could not be reliably measured because of
+that sevoflurane and desflurane prolong QTc interval but do     T-wave morphology and a 6-lead minimum was considered
+not influence QTD [9]. Our previous study showed that a         necessary for the analysis. QTcD was defined as the dif-
+bolus administration of propofol did not affect QTcD [2].       ference between the maximum and minimum QTc interval
+   The aim of this open-label randomized clinical study         values in all leads. The mean QTc interval was calculated
+was to determine the interaction between intravenous anes-      from all available QTc interval values averaged from three
+thetics and sevoflurane on QTc interval and QTcD during         consecutive cycles in all leads during the measurement
+anesthesia induction.                                           period. An investigator, who was blinded to the anesthetic
+                                                                agent, examined and analyzed the ECGs.
+                                                                   The patients were randomly divided by sealed envelope
+Methods                                                         assignment into two groups—Group T (n = 24) and Group
+                                                                P (n = 24). All patients received oxygen via a facemask at a
+Patients                                                        flow rate of 5 L/min for 2 min prior to an injection of 3 μg/
+                                                                kg fentanyl. The patients in Group T received 5 mg/kg thia-
+This open-label randomized clinical trial included 48           mylal and those in Group P received 1.5 mg/kg propofol
+American Society of Anesthesiologists (ASA) physical            at 2 min after administration of fentanyl injection. Intrave-
+status I or II patients aged 20–79 years who underwent          nous vecuronium (1.5 mg/kg) and inhaled sevoflurane (3 %
+elective lumbar spine surgery, including laminectomy,           inhaled concentration) were administered to all patients
+microscopic discectomy, microendoscopic discectomy, or          immediately after loss of consciousness and tracheal intu-
+spinal fusion, under general anesthesia between July 2007       bation was performed 3 min after administration of vecu-
+and March 2008. The study protocol was approved by the          ronium injection. The eyelash reflex was continuously
+Institutional Research and Ethics Committee, and written        monitored after loss of verbal response, and loss of con-
+informed consent was obtained from each participant. The        sciousness was defined as loss of the eyelash reflex [12].
+exclusion criteria included a medical history of diabetes,      The inhaled concentration of sevoflurane was decreased to
+ischemic heart disease, preoperative ECG abnormalities,         1 % after tracheal intubation in all patients and the respira-
+and preoperative medications known to prolong the QTc           tory rate was adjusted to maintain an end-tidal carbon diox-
+interval, including β-adrenergic antagonists and antiar-        ide partial pressure of 35 mmHg. Heart rate (HR), mean
+rhythmic agents. None of the patients received any prean-       arterial pressure (MAP), BIS, end-tidal sevoflurane concen-
+esthetic medication.                                            tration (ETsevo), and 12-lead ECG were recorded imme-
+                                                                diately before fentanyl injection (baseline T1), 2 min after
+Study protocol                                                  fentanyl injection (T2), 3 min after vecuronium injection
+                                                                (immediately before tracheal intubation; T3), and 2 min
+Pulse oximetry, 3-lead ECG, non-invasive blood pressure         after tracheal intubation (T4).
+(BP) monitoring, and bispectral index score (BIS) meas-
+urement (A2000 BIS Monitoring System; Aspect Medical            Statistical analysis
+System, Natick, MA, USA) were performed as the stand-
+ard procedure for patients receiving general anesthesia. The    The results are expressed as median [IQR (range)]. A 2-fac-
+incidence of dysrhythmia was monitored by continuous            torial analysis of variance with repeated measures was
+recording of ECG lead II. The 12-lead ECG was attached          performed to analyze the interaction between time and the
+to the patients before anesthesia induction, and the standard   two groups. A post hoc comparison between groups at each
+12-lead ECG recordings were obtained at each pre-speci-         time point and among the repeated measures in each group
+fied measurement time with a computerized ECG recorder          was performed using Bonferroni/Dunn procedure, if appro-
+(model FX-7432; Fukuda Denshi, Tokyo, Japan) at a paper         priate. Continuous data for patient characteristics were
+
+13
+J Anesth (2016) 30:929–934                                                                                                           931
+
+Table 1 Patient characteristics      Variables                      Thiamylal group                Propofol group                 p value
+
+                                     Patients                       24                             24
+                                     ASA I/II                       16/9                           18/7                           0.63
+                                     Sex (male/female)              14/10                          19/5                           0.22
+                                     Age (years)                    62 [53–67 (33–77)]             53 [41–65 (33–77)]             0.08
+                                     Height (cm)                    160 [151–169 (142–177)]        166 [160–171 (140–180)]        0.07
+                                     Weight (kg)                    63 [55–66 (43–80)]             64 [58–73 (43–83)]             0.23
+                                     BSA (m2)                       1.63 [1.53–1.73 (1.29–1.95)]   1.76 [1.59–1.80 (1.32–1.94)]   0.08
+                                     Sodium (mmol L−1)              142 [140–144 (138–146)]        142 [141–143 (138–146)]        0.98
+                                     Potassium (mmol L−1)           4.1 [4.0–4.3 (3.1–5.2)]        4.1 [3.9–4.3 (3.7–5.3)]        0.56
+                                     Calcium (mg dL−1)              9.2 [8.9–9.4 (8.8–10.1)]       9.3 [8.9–9.5 (8.6–9.7)]        0.88
+                                     Hemoglobin (g dL−1)            14.4 [13.2–15.1 (11.5–16.1)]   14.8 [13.5–15.2 (11.7–16.8)]   0.36
+
+                                     Values are number, median [IQR (range)]
+                                     ASA American Society of Anesthesiologists physical status, BSA body surface area
+
+
+Table 2 Incidence of dysrhythmia                                           in ETsevo between the two groups. BIS and MAP were
+Variables               Thiamylal group   Propofol group     p value       significantly decreased after anesthesia induction in both
+                                                                           groups. HR was significantly decreased after anesthesia
+APC/total (n)           0/24 (0 %)        0/24 (0 %)         0.99          induction and recovered after tracheal intubation. There
+VPC/total (n)           0/24 (0 %)        0/24 (0 %)         0.99          were no significant differences in QTcD at any recorded
+Values are number (%)
+                                                                           time point.
+APC atrial premature contraction, VPC ventricular premature con-
+                                                                              Figure 1 shows the QTc interval values for both groups
+traction                                                                   at each time point. An analysis of variance indicated sig-
+                                                                           nificant effects of both intravenous agent (p < 0.0027) and
+                                                                           time (p < 0.0001). The interaction between the intravenous
+analyzed using the Mann–Whitney U test. Dichotomous                        agent and the time point was also significant (p < 0.0001).
+variables were analyzed with either the Fisher’s exact prob-               These findings were confirmed by post hoc testing. In
+ability or chi-squared test. A p value of <0.05 was consid-                Group T, the QTc interval values at T3 (p < 0.0001) and
+ered statistically significant.                                            T4 (p < 0.0001) were significantly prolonged compared
+   Sample size was determined on the basis of the previ-                   with the QTc interval at T1. The QTc interval did not
+ous study (SD 23 ms) [2], which indicated that with 22                     change over time in Group P, and the QTc interval at T3
+patients in each group a power of 90 % would be required                   (p < 0.0001) and T4 (p = 0.0006) in Group T were signifi-
+to detect a difference of 23 ms in the mean QTc interval                   cantly longer than in Group P.
+value between the two groups at a 5 % significance level.
+
+                                                                           Discussion
+Results
+                                                                           The propofol injection seemed to counteract QTc interval
+Fifty-one patients (35 men and 16 women) were enrolled                     prolongation associated with sevoflurane anesthesia induc-
+in the study. Of these, 3 patients [2 men (one from each                   tion, while neither intravenous anesthetic agent affected
+group) and 1 woman from Group T] were excluded because                     QTcD.
+their ECG data were wrongly entered in the software.               
+(Content truncated due to size limit. Use line ranges to read in chunks)
